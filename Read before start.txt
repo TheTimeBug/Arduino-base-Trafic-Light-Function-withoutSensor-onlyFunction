@@ -1,0 +1,15 @@
+
+
+Required component: Arduino uno R3, LCD 16/2 , Potentiometer, Buzzer,resistor (1k),Jump wire. 
+
+Required knowledge : Basic Electronics and Basic Arduino. 
+
+Final result:   Blink G-Y-R-Y-G formet led light. 
+		Each led delay 2sec;
+		Buzzer sound on Red Light;
+		Easily useable function to re use with any sensor. 
+
+Process: Follow the circuit and code . .  Just remember use 10K resistor with button and 560ohm with display. . 
+
+
+Have a great day. . .  
